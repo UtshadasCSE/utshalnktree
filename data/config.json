@@ -1,0 +1,56 @@
+{
+  "name": "@utshadas",
+  "bio": "Frontend developer shaping sleek digital products. Focused on Shopify, Wordpress, CMS platforms, Vibe Coding and Next.js.",
+  "avatar": "/avatar.png",
+  "links": [
+    {
+      "label": "Latest Projects",
+      "url": "https://github.com/UtshadasCSE",
+      "icon": "Github",
+      "badge": "87+ Repos",
+      "colorAccent": "#4BEEF5"
+    },
+    {
+      "label": "Full Portfolio",
+      "url": "https://utshastack.vercel.app/",
+      "icon": "Globe",
+      "badge": "New",
+      "colorAccent": "#BD00FF"
+    },
+    {
+      "label": "Connect on LinkedIn",
+      "url": "http://www.linkedin.com/in/utshacsebd25",
+      "icon": "Linkedin",
+      "colorAccent": "#0077B5"
+    },
+    {
+      "label": "Digital Void (Blog)",
+      "url": "https://utshafiya.shop/blogs",
+      "icon": "FileText",
+      "colorAccent": "#FFD700"
+    }
+  ],
+  "socials": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/antigravity",
+      "icon": "Twitter"
+    },
+    {
+      "platform": "Github",
+      "url": "https://github.com/antigravity",
+      "icon": "Github"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/antigravity",
+      "icon": "Instagram"
+    }
+  ],
+  "footer": "© 2026 Utsha Kumar Das. All protocols initialized.",
+  "theme": {
+    "accentColor": "#4BEEF5",
+    "accentColor2": "#BD00FF",
+    "bgColor": "#050608"
+  }
+}
